@@ -31,7 +31,7 @@ The client provides a Promise-based API with a builtin support for native JavaSc
 ### Hazelcast
 
 Hazelcast Node.js client requires a working Hazelcast cluster to run. This cluster handles the storage and
-manipulation of the user data.
+manipulation of the user data...
 
 A Hazelcast cluster consists of one or more cluster members. These members generally run on multiple virtual or
 physical machines and are connected to each other via the network. Any data put on the cluster is partitioned to
